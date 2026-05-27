@@ -8,3 +8,38 @@ langchain
 networkx
 scipy
 faiss-cpu
+# Core API
+fastapi
+uvicorn
+
+# Data Validation
+pydantic
+
+# AI / ML
+torch
+transformers
+
+# Numerical Computing
+numpy
+scipy
+
+# Graph & Memory Systems
+networkx
+faiss-cpu
+
+# Async Support
+aiofiles
+httpx
+
+# Environment Management
+python-dotenv
+
+# Logging & Telemetry
+loguru
+
+# Testing
+pytest
+
+# Optional Future Extensions
+sentence-transformers
+accelerate
